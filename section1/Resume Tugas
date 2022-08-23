@@ -5,8 +5,7 @@ Resume Section 1
 	2. Centralized => Version control yang menyimpan file perubahan di salah satu perangkat yang tersentralisasi
 	3. Distributed => Version control yang menyimpan file perubahan di salah satu perangkat sekaligus mendistribusikan ke local 
 
-- Git merupakan salah satu Version Control System yang populer digunakan oleh
-para developer untuk mengembangkan software secara bersama-sama
+- Git merupakan salah satu Version Control System yang populer digunakan oleh para developer untuk mengembangkan software secara bersama-sama
 
 - Beberapa perintah yang ada di dalam git yaitu:
   * git init
