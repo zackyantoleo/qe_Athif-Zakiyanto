@@ -15,6 +15,6 @@ Hal yang perlu diperhatikan saat membuat test case :
   * Dapat ditinjau oleh orang lain
 
 - Tools yang dapat digunakan untuk Test scenario
- * Google Spreadsheet
- * Testrail
- * TestLink
+  * Google Spreadsheet
+  * Testrail
+  * TestLink
