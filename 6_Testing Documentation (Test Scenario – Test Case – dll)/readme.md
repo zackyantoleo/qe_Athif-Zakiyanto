@@ -1,5 +1,5 @@
 # Summary Section 6
-## Software Testing Fundamental
+## Testing Documentation (Test Scenario – Test Case – dll)
 "**Athif Zakiyanto_QE Kelas A**"
 
 - Test Scenario adalah sebuah dokumen yang berisi sekumpulan langkah-langkah
