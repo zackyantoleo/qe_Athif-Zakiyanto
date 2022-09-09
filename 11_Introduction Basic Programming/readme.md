@@ -1,5 +1,5 @@
-# Summary Section 10
-## Linux Basic Command
+# Summary Section 11
+## Introduction Basic Programming
 "**Athif Zakiyanto_QE Kelas A**"
 
 -  Bahasa Pemograman Java adalah bahasa pemograman tingkat tinggi yang beroientasi pada objek atau OOP (Object Oriented Programming) bahasa pemograman java tersusun dari class, class sendiri terdiri dari berbagai metode yang melakukan pekerjaan dan mengembalikan informasi setelah melakukan tugasnya.
