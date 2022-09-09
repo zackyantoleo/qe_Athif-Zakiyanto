@@ -15,3 +15,9 @@
   8. Memiliki Library code yang lengkap
   9. Bisa digunakan di berbagai platform
   
+- Terdapat 5 komponen materi utama dalam Basic Programming yaitu :
+  * Operator
+  * Type Data
+  * Branching (Percabangan)
+  * Looping (Perulangan)
+  * Input Output
