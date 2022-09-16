@@ -2,7 +2,7 @@
 ## Iterable Data Structure
 "**Athif Zakiyanto_QE Kelas A**"
 
--  Itterable merupakan sekumpulan data atau struktur data yang dapat dilakukan iterasi atau perulangan ke dirinya sendiri. 
+-  Iterable merupakan sekumpulan data atau struktur data yang dapat dilakukan iterasi atau perulangan ke dirinya sendiri. Sedangkan iterator merupakan class yang mengatur perulangan dari iterable, iterator ini mengelola bagian dimana perulangan yang sedang dilakukan dan mengetahuai data berikutnya yang dapat diambil dan cara mengambilnya.
 
 - 
   
