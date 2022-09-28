@@ -6,7 +6,11 @@
 
 - API atau Application Programming Interface merupakan suatu penghubung yang memungkinkan suatu aplikasi untuk berinteraksi dengan aplikasi lainya untuk berbagi data. Tujuan dari penggunaan API adalah untuk mempercepat proses development dengan menyediakan function secara terpisah sehingga developer tidak perlu membuat fitur yang serupa.
 
-- 
+- Fundamental API Test process :
+  * Record, mendefinisikan informasi dari API
+  * Parsing, menyaring atau merekam data API lalu melakukan ekstrasi dari data tersebut
+  * Reconstruction panggilan API dan mengirimkan mereka dari klien simulasi.
+  * Test Validation 
    
 
 
