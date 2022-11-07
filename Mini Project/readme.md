@@ -1,5 +1,5 @@
 1. Link Project Automation Katalon
-2. 
+
 Automation Web 
 https://github.com/zackyantoleo/MiniprojectWeb.git 
  
